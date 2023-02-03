@@ -1,4 +1,4 @@
-# ***Introducing YetGen Python Jump Program!***
+# **Introducing YetGen Python Jump Program!** 
 ## Committed at 30.01.2023 - by Elif Neyligül Arslan
 ### The education will take 12 weeks, which I will be learning different types of coding, branches by using Python Coding Language.
 
